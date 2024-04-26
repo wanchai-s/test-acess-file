@@ -1,0 +1,191 @@
+[
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_mainScreenUsageAndPackage",
+    "condition_action": "click",
+    "condition_section": "outstandingBalance",
+    "condition_component_id": "button_payBill",
+    "result_event_type": "standard event",
+    "result_event_name": "select_button"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_mainScreenUsageAndPackage",
+    "condition_action": "click",
+    "condition_section": "currentCharge",
+    "condition_component_id": "button_detail",
+    "result_event_type": "standard event",
+    "result_event_name": "select_button"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_mainScreenUsageAndPackage",
+    "condition_action": "click",
+    "condition_section": "myPackage",
+    "condition_component_id": "button_viewPackageDetail",
+    "result_event_type": "standard event",
+    "result_event_name": "select_text"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_mainScreenUsageAndPackage",
+    "condition_action": "click",
+    "condition_section": "myUsage",
+    "condition_component_id": "button_viewPackageDetail",
+    "result_event_type": "standard event",
+    "result_event_name": "select_text"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_mainScreenUsageAndPackage",
+    "condition_action": "click",
+    "condition_section": "myPackage",
+    "condition_component_id": "button_buyOntopPackage",
+    "result_event_type": "standard event",
+    "result_event_name": "select_button"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_mainScreenUsageAndPackage",
+    "condition_action": "click",
+    "condition_section": "myPackage",
+    "condition_component_id": "button_changeMainPackage",
+    "result_event_type": "standard event",
+    "result_event_name": "select_button"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_mainScreenUsageAndPackage",
+    "condition_action": "click",
+    "condition_section": "recomendedPackage",
+    "condition_component_id": "button_viewDetail",
+    "result_event_type": "ecommerce",
+    "result_event_name": "select_item"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_ontopPackageCatalog",
+    "condition_action": "click",
+    "condition_section": "recommendedPackage",
+    "condition_component_id": "button_viewDetail_*",
+    "result_event_type": "ecommerce",
+    "result_event_name": "select_item"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_ontopPackageCatalog",
+    "condition_action": "click",
+    "condition_section": "recommendedPackage",
+    "condition_component_id": "button_viewDetail_*",
+    "result_event_type": "ecommerce",
+    "result_event_name": "select_item"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_ontopPackageCatalog",
+    "condition_action": "click",
+    "condition_section": "recomendedPackage",
+    "condition_component_id": "button_buyNow_*",
+    "result_event_type": "ecommerce",
+    "result_event_name": "add_to_cart"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_ontopPackageCatalog",
+    "condition_action": "click",
+    "condition_section": "recomendedPackage",
+    "condition_component_id": "button_buyNow_*",
+    "result_event_type": "ecommerce",
+    "result_event_name": "add_to_cart"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_ontopPackageCatalog",
+    "condition_action": "click",
+    "condition_section": "recommendedPackage",
+    "condition_component_id": "card_recommendOntopPackage_*",
+    "result_event_type": "ecommerce",
+    "result_event_name": "view_item_list"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_ontopPackageCatalog",
+    "condition_action": "click",
+    "condition_section": "recommendedPackage",
+    "condition_component_id": "card_recommendOntopPackage_*",
+    "result_event_type": "ecommerce",
+    "result_event_name": "view_item_list"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_myPackage",
+    "condition_action": "click",
+    "condition_section": "mainPackage",
+    "condition_component_id": "button_changMainPackage_*",
+    "result_event_type": "standard event",
+    "result_event_name": "select_button"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_myPackage",
+    "condition_action": "click",
+    "condition_section": "upComingPackage",
+    "condition_component_id": "button_viewUpcomingPackageDetail",
+    "result_event_type": "ecommerce",
+    "result_event_name": "select_item"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_mainScreenUsageAndPackage",
+    "condition_action": "click",
+    "condition_section": "diyRewards",
+    "condition_component_id": "button_viewDetailRewards_*",
+    "result_event_type": "standard event",
+    "result_event_name": "select_button"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_myPackage",
+    "condition_action": "click",
+    "condition_section": "buttonBuyOntopPackage",
+    "condition_component_id": "button_buyOntopPackage",
+    "result_event_type": "standard event",
+    "result_event_name": "select_button"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_myPackage",
+    "condition_action": "click",
+    "condition_section": "valueAddedService",
+    "condition_component_id": "card_valueAddService",
+    "result_event_type": "standard event",
+    "result_event_name": "select_dropdown"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_mainScreenUsageAndPackage",
+    "condition_action": "click",
+    "condition_section": "billingHistory",
+    "condition_component_id": "button_viewAllBilled",
+    "result_event_type": "standard event",
+    "result_event_name": "select_text"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_mainScreenUsageAndPackage",
+    "condition_action": "click",
+    "condition_section": "billingHistory",
+    "condition_component_id": "button_billedCycle_*",
+    "result_event_type": "standard event",
+    "result_event_name": "select_bill"
+  },
+  {
+    "condition_record_name": "mfaf.createMobileActivity",
+    "condition_screen_name": "myais_package_myPackage",
+    "condition_action": "click",
+    "condition_section": "ontopPackage",
+    "condition_component_id": "button_cancelOntopPackage_*",
+    "result_event_type": "ecommerce",
+    "result_event_name": "remove_from_cart"
+  }
+]
